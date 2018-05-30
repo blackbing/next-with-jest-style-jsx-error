@@ -1,7 +1,7 @@
 
 # This is a problem reproduction in Next@6
-1. with-jest
-2. with-styled-jsx-scss
+1. [with-jest](https://github.com/zeit/next.js/tree/canary/examples/with-jest)
+2. [with-styled-jsx-scss](https://github.com/zeit/next.js/tree/canary/examples/with-styled-jsx-scss)
 
 # reproduce steps
 1. yarn test
